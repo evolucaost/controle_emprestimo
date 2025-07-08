@@ -5,6 +5,7 @@ ControlaTEC é um sistema web completo e robusto, projetado para a gestão e con
 O sistema foi desenvolvido com uma interface limpa e intuitiva, separada por níveis de permissão para garantir que as operações críticas sejam realizadas apenas por usuários autorizados.
 
 Principais Funcionalidades:
+
 🔐 Segurança e Controle de Acesso
 Autenticação Segura: Sistema de login com senhas criptografadas (hashing) e autenticação baseada em Token (JWT) com tempo de expiração.
 

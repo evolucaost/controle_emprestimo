@@ -1,8 +1,4 @@
 # controle_emprestimo
-Com certeza! Que ótima maneira de finalizar nosso projeto. Ter uma boa descrição é essencial para apresentar o sistema em um portfólio, documentação ou para outros stakeholders.
-
-Aqui está uma descrição completa que resume tudo o que construímos.
-
 Descrição do Sistema: ControlaTEC
 ControlaTEC é um sistema web completo e robusto, projetado para a gestão e controle do ciclo de vida de equipamentos de informática. A plataforma centraliza o inventário de ativos de TI e gerencia todo o processo de empréstimos e devoluções, substituindo planilhas manuais e processos informais por uma solução segura, rastreável e eficiente.
 
